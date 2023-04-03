@@ -14,7 +14,7 @@
 	<name>csvtodb</name>
 	<description>Load data from CSV file to Database</description>
 	<properties>
-		<java.version>8</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
